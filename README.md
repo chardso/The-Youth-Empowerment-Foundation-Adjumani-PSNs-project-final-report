@@ -1,16 +1,16 @@
  The-Youth-Empowerment-Foundation-Adjumani-PSNs-project-final-report.
 
-PROJECT TITTLE;
+# PROJECT TITTLE;
 Fixing of 12 houses for persons with special needs.
 
-PoC LED ORGANIZATION;
+# PoC LED ORGANIZATION;
 The Youth Empowerment Foundation
 
-ACTUAL IMPLEMENTATION PERIOD;
+# ACTUAL IMPLEMENTATION PERIOD;
 1month
 
-ACTUAL TARGET POPULATION;
+# ACTUAL TARGET POPULATION;
 60people
 
-ACTUAL LOCATION OF IMPLEMENTATION;
+# ACTUAL LOCATION OF IMPLEMENTATION;
 Pagirinya refugee settlement 1 and 2
